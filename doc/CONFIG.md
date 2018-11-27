@@ -2,7 +2,7 @@
 
  ## Add the log4net.config file
 
- Here you will found an example of how your `log4net.config` file should look like.
+ Here you will find an example of how your `log4net.config` file should look like.
  
 ```xml
 <?xml version="1.0" encoding="utf-8" ?>
